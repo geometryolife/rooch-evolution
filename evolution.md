@@ -33,6 +33,13 @@
 ```
 
 - `rust-toolchain` 
+- `rustfmt.toml`
+- `Cargo.toml`
+- 更新 README
+- add crates
+  - `moveos`
+  - `mpm`
+  - `statedb` 状态数据
 
 ## Initial commit
 
